@@ -122,21 +122,33 @@ Exploring cybersecurity concepts and information security through learning and p
 
 <div align="center">
 
-<a href="mailto:aliarizkip@gmail.com">
+<table>
+<tr>
+<td align="center">
+
+<a href="mailto:aliarizki@gmail.com">
 <img src="https://img.shields.io/badge/Email-D95F92?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
+</td>
+
+<td align="center">
 
 <a href="https://instagram.com/aliaarz12">
 <img src="https://img.shields.io/badge/Instagram-E88AB3?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
+</td>
+
+<td align="center">
 
 <a href="https://github.com/aliarizkiprasetya">
 <img src="https://img.shields.io/badge/GitHub-D95F92?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</td>
+</tr>
+</table>
 
 </div>
 
