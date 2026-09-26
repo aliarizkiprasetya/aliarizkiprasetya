@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alia Rizki Prasetya
+#      Hi, I'm Alia Rizki Prasetya
 
 <div align="center">
 
