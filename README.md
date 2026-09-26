@@ -1,48 +1,32 @@
-<!-- ==================== HEADER ==================== -->
+<!-- 🌸 ALIA'S GITHUB PROFILE 🌸 -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00B4D8&height=200&section=header&text=Alia%20Rizki%20Prasetya&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Systems%20Student%20%7C%20UI%2FUX%20%7C%20Cybersecurity&descAlignY=60&descSize=15" width="100%"/>
-</p>
+<div align="center">
 
-<!-- ==================== TYPING ANIMATION ==================== -->
+# 🌷 Hi, I'm Alia Rizki Prasetya!
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Alia+%F0%9F%91%8B;Information+Systems+Student;Beginner+UI%2FUX+Designer;Cybersecurity+Enthusiast" />
-</p>
+### `Information Systems Student`
+### `Beginner UI/UX Designer` · `Cybersecurity Enthusiast`
 
-<!-- ==================== STATUS ==================== -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=FFB6D9&height=120&section=header&text=Small%20Steps%2C%20Big%20Dreams%20%E2%9C%A8&fontSize=25&fontColor=6B3152&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20EXPLORING-6C63FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FIELD-UI%2FUX%20%26%20CYBERSECURITY-00B4D8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MAJOR-INFORMATION%20SYSTEMS-E75480?style=for-the-badge"/>
-</p>
+</div>
 
 ---
 
-<!-- ==================== ABOUT ME ==================== -->
+## 🌸 A Little About Me
 
-## 🔗 About Me
+> Hi! I'm Alia, an Information Systems student who enjoys exploring
+> technology, design, and digital experiences.
 
-I'm an **Information Systems student** who is interested in
-**UI/UX Design** and **Cybersecurity**.
+I'm currently discovering my interests in **UI/UX Design** and
+**Cybersecurity**. I enjoy learning new things, experimenting with
+ideas, and turning what I learn into small projects.
 
-Currently, I'm learning UI/UX Design, focusing on creating
-simple, useful, and user-friendly digital experiences.
-
-I'm also exploring the fundamentals of Cybersecurity and
-Information Security.
-
----
-
-<!-- ==================== CURRENTLY LEARNING ==================== -->
-
-## 🎯 Currently Learning
-
-- 🎨 UI/UX Design
-- 🔐 Cybersecurity
-- 👥 User Research
-- ✏️ Wireframing & Prototyping
+```text
+🎓 Major       → Information Systems
+🎨 Focus       → UI/UX Design
+🔐 Interest    → Cybersecurity
+🌱 Status      → Still Learning & Growing
 
 ---
 
