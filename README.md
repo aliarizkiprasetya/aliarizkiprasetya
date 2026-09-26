@@ -118,6 +118,9 @@ Exploring cybersecurity concepts and information security through learning and p
 
 ---
 
+<img width="527" height="311" alt="image" src="https://github.com/user-attachments/assets/9b238ed7-8244-4879-9e25-9b92fa21924f" />
+
+---
 ## 💌 Connect With Me
 
 <div align="center">
@@ -126,22 +129,19 @@ Exploring cybersecurity concepts and information security through learning and p
 <img src="https://img.shields.io/badge/Email-D95F92?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://instagram.com/aliaarz12">
 <img src="https://img.shields.io/badge/Instagram-E88AB3?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://github.com/aliarizkiprasetya">
 <img src="https://img.shields.io/badge/GitHub-D95F92?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
-
----
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=17&duration=3500&pause=1000&color=D95F92&center=true&vCenter=true&width=550&lines=Thanks+for+visiting+my+profile+%F0%9F%8C%B7;Keep+learning+%E2%9C%A8;Keep+creating+%F0%9F%92%97;Keep+growing+%F0%9F%8C%B1" />
