@@ -1,18 +1,12 @@
 <div align="center">
 
-<h1>Hi, I'm Alia Rizki Prasetya 🌷</h1>
+<h1>Hi, I'm Alia Rizki Prasetya </h1>
 <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&duration=2800&pause=1000&color=D95F92&center=true&vCenter=true&width=650&lines=Information+Systems+Student+%F0%9F%8E%93;Beginner+UI%2FUX+Designer+%F0%9F%8E%A8;Cybersecurity+Enthusiast+%F0%9F%94%90;Learning+Something+New+Every+Day+%F0%9F%8C%B1" />
 
 </div>
-
----
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&duration=2800&pause=1000&color=D95F92&center=true&vCenter=true&width=650&lines=Information+Systems+Student+%F0%9F%8E%93;Beginner+UI%2FUX+Designer+%F0%9F%8E%A8;Cybersecurity+Enthusiast+%F0%9F%94%90;Learning+Something+New+Every+Day+%F0%9F%8C%B1" />
-
-</div>
-
 ---
 
-## 🌷 About Me
+## About Me
 
 Hi! I'm **Alia Rizki Prasetya**, an **Information Systems student** interested in technology, UI/UX design, and cybersecurity.
 
