@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="./alia-github-lightning.gif" width="100%">
+</div>
+<div align="center">
 
 # ⚡ ALIA RIZKI PRASETYA ⚡
 
