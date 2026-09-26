@@ -1,11 +1,11 @@
 # Hi, I'm Alia Rizki Prasetya 👋
 
-🎓 Information Systems Student  
-🎨 Beginner UI/UX Designer | 🔐 Cybersecurity Enthusiast
+Information Systems Student  
+Beginner UI/UX Designer | Cybersecurity Enthusiast
 
 ---
 
-## 👩🏻‍💻 About Me
+## About Me
 
 I'm an Information Systems student interested in UI/UX design
 and cybersecurity.
@@ -58,8 +58,5 @@ information security.
 
 ## 📫 Let's Connect
 
-📧 Email: EMAIL_KAMU
-
----
-
-⭐ Thanks for visiting my profile!
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliarizkip@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aliaarz12)
