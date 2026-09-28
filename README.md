@@ -4,7 +4,11 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Designing+beautiful+experiences+🎨;Exploring+Cybersecurity+🔐;Learning+Something+New+Every+Day+✨;Welcome+to+my+GitHub+Profile+💙" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile+💙;Beginner+UI%2FUX+Designer;Cybersecurity+Enthusiast;Designing+%7C+Learning+%7C+Exploring+✨" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=9B5DE5&center=true&vCenter=true&width=650&lines=Creating+beautiful+digital+experiences;Exploring+the+world+of+Cybersecurity;Learning+Something+New+Every+Day" />
 
 </div>
 
@@ -22,12 +26,7 @@ Hi! I'm **Alia** 👋
 
 I'm a **Beginner UI/UX enthusiast** who enjoys creating clean, simple, and user-friendly digital experiences. I'm also interested in **Cybersecurity** and currently exploring web security, networking, and ethical hacking.
 
-✨ I love learning new things
-🎨 Interested in UI/UX Design
-🔐 Exploring Cybersecurity
-💻 Learning Web Development
-🌐 Interested in Technology
-🚀 Building and experimenting with projects
+I enjoy learning new things, exploring technology, and building personal projects while continuously improving my skills.
 
 <br clear="right"/>
 
@@ -40,6 +39,7 @@ I'm a **Beginner UI/UX enthusiast** who enjoys creating clean, simple, and user-
 ### 🎨 UI/UX Design
 
 <img src="https://img.shields.io/badge/Figma-FF69B4?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 <img src="https://img.shields.io/badge/UI%20Design-9B5DE5?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/UX%20Design-00B4FF?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Wireframing-FF69B4?style=for-the-badge"/>
@@ -50,7 +50,7 @@ I'm a **Beginner UI/UX enthusiast** who enjoys creating clean, simple, and user-
 <img src="https://img.shields.io/badge/Cybersecurity-00B4FF?style=for-the-badge&logo=hackthebox&logoColor=white"/>
 <img src="https://img.shields.io/badge/Network%20Security-9B5DE5?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Web%20Security-FF69B4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Linux-00B4FF?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Parrot%20OS-00B4FF?style=for-the-badge&logo=parrot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ethical%20Hacking-9B5DE5?style=for-the-badge"/>
 
 </div>
@@ -61,7 +61,7 @@ I'm a **Beginner UI/UX enthusiast** who enjoys creating clean, simple, and user-
 
 ## 💻 Technologies & Tools
 
-<img src="https://skillicons.dev/icons?i=html,css,js,figma,git,github,vscode,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,figma,git,github,vscode&theme=dark"/>
 
 </div>
 
@@ -200,6 +200,7 @@ with new ideas.
 <img src="https://komarev.com/ghpvc/?username=aliarizkiprasetya&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
 
 </div>
+
 
 
 
