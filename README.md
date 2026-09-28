@@ -1,266 +1,206 @@
-<!-- ========================= HEADER ========================= -->
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&section=header&height=230&text=Hi%2C%20I'm%20Alia%20%F0%9F%91%8B&font=Nunito&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Beginner%20UI%2FUX%20%7C%20Cybersecurity%20Enthusiast&descSize=16&descAlignY=56&animation=twinkling&color=0:ff6ec7,50:9b5de5,100:00d4ff"
-    alt="Animated gradient header saying Hi, I'm Alia"
-    width="100%"
-  />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:ff69b4,50:9b5de5,100:00b4ff&text=Hi,%20I'm%20Alia%20👋&fontSize=45&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=Beginner%20UI/UX%20%7C%20Cybersecurity%20Enthusiast&descAlignY=62&descSize=18" width="100%"/>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Nunito+Sans&weight=600&size=18&duration=3200&pause=900&color=F7B2E6&center=true&vCenter=true&width=650&lines=Information+Systems+Student;Beginner+UI%2FUX+Designer;Cybersecurity+Enthusiast;Learning+Something+New+Every+Day"
-    alt="Animated typing introduction"
-  />
-</p>
+<br>
 
-<p align="center">
-  <strong>Information Systems Student · Beginner UI/UX · Cybersecurity Enthusiast</strong>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Designing+beautiful+experiences+🎨;Exploring+Cybersecurity+🔐;Learning+Something+New+Every+Day+✨;Welcome+to+my+GitHub+Profile+💙" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/learning-in_public-ff6ec7?style=flat-square&labelColor=9b5de5" alt="Learning in public" />
-  <img src="https://img.shields.io/badge/building-curiously-00b8d9?style=flat-square&labelColor=9b5de5" alt="Building curiously" />
-</p>
+</div>
 
-<br />
+<br>
 
-<!-- ========================= ABOUT ME ========================= -->
+<div align="center">
 
-## 🌷 About Me
+## 🌸 About Me
 
-Hi, I’m **Alia Rizki Prasetya**, an Information Systems student who enjoys exploring the intersection of technology, design, and security.
+</div>
 
-I’m currently learning and using programming, UI/UX design, cybersecurity fundamentals, and information systems concepts through personal projects and continuous practice. I enjoy creating clean interfaces, understanding how digital systems work, and learning something new every day.
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<!-- ========================= PROGRAMMING LANGUAGES ========================= -->
+Hi! I'm **Alia** 👋
 
-## 💻 Programming Languages
+I'm a **Beginner UI/UX enthusiast** who enjoys creating clean, simple, and user-friendly digital experiences. I'm also interested in **Cybersecurity** and currently exploring web security, networking, and ethical hacking.
 
-Technologies I’m currently learning and using in projects:
+✨ I love learning new things
+🎨 Interested in UI/UX Design
+🔐 Exploring Cybersecurity
+💻 Learning Web Development
+🌐 Interested in Technology
+🚀 Building and experimenting with projects
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-ff6ec7?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PHP-9b5de5?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/HTML5-00b8d9?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-ff6ec7?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-9b5de5?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL%20%2F%20MySQL-00b8d9?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL and MySQL" />
-</p>
+<br clear="right"/>
 
-<p align="center">
-  <em>Learning, practicing, and improving one project at a time.</em>
-</p>
+---
 
-<!-- ========================= UI UX ========================= -->
+<div align="center">
 
-## 🎨 UI/UX
+## 🎨 UI/UX & 🔐 Cybersecurity
 
-I’m interested in creating digital experiences that feel simple, useful, and visually engaging.
+### 🎨 UI/UX Design
 
-<table align="center">
-  <tr>
-    <td align="center" width="170">✨<br /><b>UI Design</b></td>
-    <td align="center" width="170">🧭<br /><b>UX Design</b></td>
-    <td align="center" width="170">📐<br /><b>Wireframing</b></td>
-  </tr>
-  <tr>
-    <td align="center">🧩<br /><b>Prototyping</b></td>
-    <td align="center">🔎<br /><b>User Research</b></td>
-    <td align="center">💡<br /><b>Creative Thinking</b></td>
-  </tr>
-</table>
+<img src="https://img.shields.io/badge/Figma-FF69B4?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/UI%20Design-9B5DE5?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/UX%20Design-00B4FF?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireframing-FF69B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prototyping-9B5DE5?style=for-the-badge"/>
 
-<!-- ========================= CYBERSECURITY ========================= -->
+### 🔐 Cybersecurity
 
-## 🔐 Cybersecurity
+<img src="https://img.shields.io/badge/Cybersecurity-00B4FF?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Network%20Security-9B5DE5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web%20Security-FF69B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linux-00B4FF?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ethical%20Hacking-9B5DE5?style=for-the-badge"/>
 
-Cybersecurity is an area I’m exploring through foundational concepts, practical learning, and security awareness.
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity%20Fundamentals-ff6ec7?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cybersecurity Fundamentals" />
-  <img src="https://img.shields.io/badge/Network%20Security-9b5de5?style=for-the-badge&logo=cisco&logoColor=white" alt="Network Security" />
-  <img src="https://img.shields.io/badge/Web%20Security-00b8d9?style=for-the-badge&logo=owasp&logoColor=white" alt="Web Security" />
-  <img src="https://img.shields.io/badge/Security%20Awareness-ff6ec7?style=for-the-badge&logo=protonmail&logoColor=white" alt="Security Awareness" />
-  <img src="https://img.shields.io/badge/Learning%20Cybersecurity-9b5de5?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Learning Cybersecurity" />
-</p>
+---
 
-<p align="center">
-  <em>Building a strong foundation in cybersecurity step by step.</em>
-</p>
+<div align="center">
 
-<!-- ========================= TOOLS ========================= -->
+## 💻 Technologies & Tools
 
-## 🛠️ Technologies & Tools
+<img src="https://skillicons.dev/icons?i=html,css,js,figma,git,github,vscode,linux&theme=dark"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-ff6ec7?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-9b5de5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/MySQL-00b8d9?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/XAMPP-ff6ec7?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
-  <img src="https://img.shields.io/badge/Figma-9b5de5?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/VS%20Code-00b8d9?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
-  <img src="https://img.shields.io/badge/MikroTik%20%2F%20Winbox-ff6ec7?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik and Winbox" />
-</p>
+</div>
 
-<!-- ========================= PROJECTS ========================= -->
+---
 
-## 📂 Projects
+<div align="center">
 
-A space for projects I’m working on, learning from, and improving over time.
+## 🌱 Currently Learning
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td align="center" width="180">
 
-### 🌙 Project 01
+🎨 <b>UI/UX Design</b>
 
-**Project name:** `Replace with project name`
+<br><br>
 
-**Description:**  
-`Add a short description of your project here.`
+Improving design skills,
+wireframes & prototypes.
 
-**Technologies:**  
-`HTML` · `CSS` · `JavaScript`
+</td>
 
-**Project link:**  
-[View project ↗](https://github.com/aliarizkiprasetya/replace-with-project-repo)
+<td align="center" width="180">
 
-<!-- Optional screenshot:
-<img src="YOUR_SCREENSHOT_URL" alt="Project screenshot" width="100%" />
--->
+🔐 <b>Cybersecurity</b>
 
-  </td>
-  <td width="50%" valign="top">
+<br><br>
 
-### ✦ Project 02
+Exploring web security,
+networking & ethical hacking.
 
-**Project name:** `Replace with project name`
+</td>
 
-**Description:**  
-`Add a short description of your project here.`
+<td align="center" width="180">
 
-**Technologies:**  
-`Python` · `MySQL` · `PHP`
+🌐 <b>Web Development</b>
 
-**Project link:**  
-[View project ↗](https://github.com/aliarizkiprasetya/replace-with-project-repo)
+<br><br>
 
-<!-- Optional screenshot:
-<img src="YOUR_SCREENSHOT_URL" alt="Project screenshot" width="100%" />
--->
+Learning modern web
+technologies.
 
-  </td>
-  </tr>
+</td>
 
-  <tr>
-    <td width="50%" valign="top">
+<td align="center" width="180">
 
-### 🪐 Project 03
+🚀 <b>Personal Projects</b>
 
-**Project name:** `Replace with project name`
+<br><br>
 
-**Description:**  
-`Add a short description of your project here.`
+Building and experimenting
+with new ideas.
 
-**Technologies:**  
-`Figma` · `UI/UX` · `Prototyping`
-
-**Project link:**  
-[View project ↗](https://github.com/aliarizkiprasetya/replace-with-project-repo)
-
-<!-- Optional screenshot:
-<img src="YOUR_SCREENSHOT_URL" alt="Project screenshot" width="100%" />
--->
-
-  </td>
-  <td width="50%" valign="top">
-
-### 💫 More Coming Soon
-
-I’m continuously learning, experimenting, and building new projects.
-
-**Status:** `Learning in progress`
-
-  </td>
-  </tr>
+</td>
+</tr>
 </table>
 
-<!-- ========================= GITHUB STATS ========================= -->
+</div>
+
+---
+
+<div align="center">
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=aliarizkiprasetya&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF6EC7&icon_color=00D4FF&text_color=C9D1D9"
-    alt="Alia's GitHub statistics"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliarizkiprasetya&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=C9D1D9"
-    alt="Alia's most used programming languages"
-    height="165"
-  />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aliarizkiprasetya&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=00B4FF&text_color=FFFFFF"/>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=aliarizkiprasetya&hide_border=true&background=0D1117&ring=FF6EC7&fire=FF9ED2&currStreakLabel=00D4FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9B5DE5"
-    alt="Alia's GitHub contribution streak"
-    width="70%"
-  />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliarizkiprasetya&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF"/>
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=aliarizkiprasetya&bg_color=0D1117&color=C9D1D9&line=FF6EC7&point=00D4FF&area=true&hide_border=true"
-    alt="Alia's GitHub contribution graph"
-    width="95%"
-  />
-</p>
+<br><br>
 
-<!-- ========================= CURRENTLY LEARNING ========================= -->
+<img src="https://streak-stats.demolab.com?user=aliarizkiprasetya&hide_border=true&background=0D1117&ring=FF69B4&fire=00B4FF&currStreakLabel=FF69B4&sideLabels=FFFFFF&dates=AAAAAA"/>
 
-## ✨ Currently Learning
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/UI%2FUX%20Design-ff6ec7?style=for-the-badge&logo=figma&logoColor=white" alt="UI UX Design" />
-  <img src="https://img.shields.io/badge/Cybersecurity-9b5de5?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cybersecurity" />
-  <img src="https://img.shields.io/badge/Web%20Programming-00b8d9?style=for-the-badge&logo=html5&logoColor=white" alt="Web Programming" />
-  <img src="https://img.shields.io/badge/Python-ff6ec7?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Information%20Systems-9b5de5?style=for-the-badge&logo=bookstack&logoColor=white" alt="Information Systems" />
-</p>
+---
 
-<!-- ========================= CONNECT ========================= -->
+<div align="center">
 
-## 💌 Connect With Me
+## 🐍 My Contribution Journey
 
-<p align="center">
-  <a href="mailto:aliarizkip@gmail.com">
-    <img src="https://img.shields.io/badge/Email-aliarizkip%40gmail.com-ff6ec7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://instagram.com/aliaarz12">
-    <img src="https://img.shields.io/badge/Instagram-aliaarz12-9b5de5?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://github.com/aliarizkiprasetya">
-    <img src="https://img.shields.io/badge/GitHub-aliarizkiprasetya-00b8d9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
-<br />
+</div>
 
-<p align="center">
-  <em>Thanks for visiting my profile — let’s keep learning and creating. ✦</em>
-</p>
+---
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&animation=twinkling&color=0:00d4ff,50:9b5de5,100:ff6ec7"
-    alt="Animated gradient footer"
-    width="100%"
-  />
-</p>
+<div align="center">
+
+## 🚀 Featured Projects
+
+<a href="https://github.com/aliarizkiprasetya?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20My%20Repositories-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💌 Let's Connect!
+
+<br>
+
+<a href="mailto:aliarizkip@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/aliaarz12">
+<img src="https://img.shields.io/badge/Instagram-9B5DE5?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://tiktok.com/@aliaarizkip">
+<img src="https://img.shields.io/badge/TikTok-00B4FF?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
+
+<a href="https://github.com/aliarizkiprasetya">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=00B4FF&center=true&vCenter=true&width=600&lines=Let's+create+something+amazing+✨;Keep+learning+%7C+Keep+creating+%7C+Keep+exploring+🚀"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00b4ff,50:9b5de5,100:ff69b4&animation=twinkling"/>
+
+### 💗 Thanks for visiting my profile!
+
+<img src="https://komarev.com/ghpvc/?username=aliarizkiprasetya&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
+
+</div>
+
 
 
 
