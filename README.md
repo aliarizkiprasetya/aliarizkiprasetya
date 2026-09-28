@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:ff69b4,50:9b5de5,100:00b4ff&text=Hi,%20I'm%20Alia%20👋&fontSize=45&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=Beginner%20UI/UX%20%7C%20Cybersecurity%20Enthusiast&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:ff69b4,50:9b5de5,100:00b4ff&text=Alia%20Rizki%20Prasetya&fontSize=42&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=Information%20Systems%20Student%20%7C%20UI%2FUX%20%7C%20Cybersecurity&descAlignY=63&descSize=16" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile+💙;Beginner+UI%2FUX+Designer;Cybersecurity+Enthusiast;Designing+%7C+Learning+%7C+Exploring+✨" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1800&color=FF69B4&center=true&vCenter=true&width=650&lines=Beginner+UI%2FUX+Designer;Cybersecurity+Enthusiast;Always+Learning+Something+New" />
 
-<br>
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=9B5DE5&center=true&vCenter=true&width=650&lines=Creating+beautiful+digital+experiences;Exploring+the+world+of+Cybersecurity;Learning+Something+New+Every+Day" />
+<img src="https://img.shields.io/badge/Design-FF69B4?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Technology-9B5DE5?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cybersecurity-00B4FF?style=flat-square&logoColor=white"/>
 
 </div>
 
@@ -16,19 +18,37 @@
 
 <div align="center">
 
-## 🌸 About Me
+## 👋 Hi, I'm Alia
 
 </div>
 
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<table>
+<tr>
+<td width="65%" valign="top">
 
-Hi! I'm **Alia** 👋
+I'm **Alia Rizki Prasetya**, an Information Systems student with an interest in **UI/UX Design** and **Cybersecurity**.
 
-I'm a **Beginner UI/UX enthusiast** who enjoys creating clean, simple, and user-friendly digital experiences. I'm also interested in **Cybersecurity** and currently exploring web security, networking, and ethical hacking.
+I enjoy creating clean and user-friendly digital experiences while exploring how technology and security work together.
 
-I enjoy learning new things, exploring technology, and building personal projects while continuously improving my skills.
+Currently, I'm focusing on improving my design skills, learning cybersecurity fundamentals, and developing my technical abilities through personal projects.
 
-<br clear="right"/>
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1800&color=9B5DE5&center=true&vCenter=true&width=550&lines=Designing+with+purpose.;Learning+with+curiosity.;Exploring+technology+every+day." />
+
+</div>
 
 ---
 
@@ -200,6 +220,7 @@ with new ideas.
 <img src="https://komarev.com/ghpvc/?username=aliarizkiprasetya&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
 
 </div>
+
 
 
 
