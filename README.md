@@ -1,20 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:ff69b4,50:9b5de5,100:00b4ff&text=Alia%20Rizki%20Prasetya&fontSize=42&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=Information%20Systems%20Student%20%7C%20UI%2FUX%20%7C%20Cybersecurity&descAlignY=63&descSize=16" width="100%"/>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&height=70&lines=Hi%2C+I'm+Alia+%F0%9F%91%8B;Alia+Rizki+Prasetya" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1800&color=FF69B4&center=true&vCenter=true&width=650&lines=Beginner+UI%2FUX+Designer;Cybersecurity+Enthusiast;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=9B5DE5&center=true&vCenter=true&width=700&height=45&lines=Beginner+UI%2FUX+Designer;Cybersecurity+Enthusiast;Information+Systems+Student" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Design-FF69B4?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Technology-9B5DE5?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cybersecurity-00B4FF?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/UI%2FUX-FF69B4?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cybersecurity-9B5DE5?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Information%20Systems-00B4FF?style=for-the-badge&logoColor=white"/>
+
+<br><br>
 
 </div>
-
-<br>
 
 <div align="center">
 
@@ -95,44 +97,48 @@ Currently, I'm focusing on improving my design skills, learning cybersecurity fu
 <tr>
 <td align="center" width="180">
 
-🎨 <b>UI/UX Design</b>
+🎨  
+<b>UI/UX Design</b>
 
 <br><br>
 
-Improving design skills,
+Improving design skills,  
 wireframes & prototypes.
 
 </td>
 
 <td align="center" width="180">
 
-🔐 <b>Cybersecurity</b>
+🔐  
+<b>Cybersecurity</b>
 
 <br><br>
 
-Exploring web security,
+Exploring web security,  
 networking & ethical hacking.
 
 </td>
 
 <td align="center" width="180">
 
-🌐 <b>Web Development</b>
+🌐  
+<b>Web Development</b>
 
 <br><br>
 
-Learning modern web
+Learning modern web  
 technologies.
 
 </td>
 
 <td align="center" width="180">
 
-🚀 <b>Personal Projects</b>
+🚀  
+<b>Personal Projects</b>
 
 <br><br>
 
-Building and experimenting
+Building and experimenting  
 with new ideas.
 
 </td>
