@@ -20,7 +20,7 @@
 
 <div align="center">
 
-## 👋 Hi, I'm Alia
+## Hi, I'm Alia
 
 </div>
 
@@ -81,7 +81,7 @@ Currently, I'm focusing on improving my design skills, learning cybersecurity fu
 
 <div align="center">
 
-## 💻 Technologies & Tools
+## Technologies & Tools
 
 <img src="https://skillicons.dev/icons?i=html,css,js,figma,git,github,vscode&theme=dark"/>
 
@@ -91,7 +91,7 @@ Currently, I'm focusing on improving my design skills, learning cybersecurity fu
 
 <div align="center">
 
-## 🌱 Currently Learning
+## Currently Learning
 
 <table>
 <tr>
@@ -221,7 +221,7 @@ with new ideas.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00b4ff,50:9b5de5,100:ff69b4&animation=twinkling"/>
 
-### 💗 Thanks for visiting my profile!
+### Thanks for visiting my profile!
 
 <img src="https://komarev.com/ghpvc/?username=aliarizkiprasetya&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
 
